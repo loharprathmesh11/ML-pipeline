@@ -1,0 +1,12 @@
+[core]
+    remote = storaged
+['remote "dvc_store"']
+    url = s3://dvc_s3_proj
+['remote "dvc_stor"']
+    url = s3://dvc_s3_proj
+['remote "dvc_storage"']
+    url = s3://s3-for-mlops
+['remote "storage_d"']
+    url = s3://s3-for-mlops
+['remote "storaged"']
+    url = s3://s3-for-mlops
